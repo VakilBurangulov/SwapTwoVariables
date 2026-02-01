@@ -7,9 +7,9 @@ int main()
     std::cout << "a: " << a << "\n";
     std::cout << "b: " << b << "\n";
 
-    int temp = a;
-    a = b;
-    b = temp;
+    a += b;
+    b = a - b;
+    a -= b;
 
     std::cout << "\n";
     std::cout << "a: " << a << "\n";

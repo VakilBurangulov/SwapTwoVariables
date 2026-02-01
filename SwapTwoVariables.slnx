@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="SwapTwoVariables/SwapTwoVariables.vcxproj" />
+  <Project Path="SwapTwoVariables/SwapTwoVariables.vcxproj" Id="6a5f67c0-04ad-44a7-909a-20f333abb528" />
 </Solution>
